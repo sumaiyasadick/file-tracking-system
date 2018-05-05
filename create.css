@@ -1,0 +1,28 @@
+body
+{
+ background-color:linen;   
+}
+
+form
+{
+    position:absolute;
+    margin-right:20%;
+    margin-left:20%;
+    background-color:lightblue;
+    text-shadow:black;
+    font-style:bold;
+    height:55%;
+    width:45%;
+    float:center;
+}
+ 
+form-field label 
+{
+    float:left;
+width: 150px;
+text-align:right;
+}
+form-field input {
+float: right;
+width: 150px;
+text-align:left;

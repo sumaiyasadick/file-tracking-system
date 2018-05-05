@@ -1,0 +1,29 @@
+body
+{
+ background-color:linen;   
+}
+
+form
+{
+    position:all;
+    margin-right:20%;
+    margin-left:20%;
+    background-color:lightblue;
+    
+}
+
+input[type=text]
+{
+    width:20%;
+    height:10%;
+    padding-right:39%;
+    left:30%;
+}
+
+input[type=password]
+{
+    width:10%;
+    height:10%;
+        padding-right:39%;
+    left:30%;
+}

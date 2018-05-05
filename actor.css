@@ -1,0 +1,45 @@
+body{
+	background-color:lightgray;
+
+}
+#head{
+	color: green;
+	font-size: 15px;
+}
+
+	#form
+    {
+        background-color:linen;
+    width:10%;
+    height:20%;
+    break-after:4px;
+    margin-left:6%;
+    pointer-events:20px;
+    padding-left:1px;
+    }
+
+form-field label 
+{
+    float:left;
+width: 150px;
+text-align:right;
+}
+form-field input {
+float: right;
+width: 150px;
+text-align:left;
+    }
+
+  a:link 
+{
+background-color:yellow;
+color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius:01%;
+border-style:solid;
+width:15%;
+height:3%;
+}

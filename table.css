@@ -1,0 +1,24 @@
+body
+{
+ background-color:linen;   
+}
+
+form
+{
+    position:fixed;
+    margin-right:20%;
+    margin-left:20%;
+    background-color:lightblue;
+    text-shadow:black;
+    font-style:bold;
+    border-style:ridge;
+    height:85%;
+    width:45%;
+}
+
+input[type=text]
+{
+    width:20%;
+    height:10%;
+
+}
